@@ -7,3 +7,9 @@
 ### Clarence C
 
 ### Mariah W
+
+## Installation Instructions
+
+- Clone the repo
+- Open the index.html page in a browser
+- Have fun!
